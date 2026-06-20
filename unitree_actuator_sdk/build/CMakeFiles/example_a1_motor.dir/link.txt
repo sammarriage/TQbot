@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -rdynamic CMakeFiles/example_a1_motor.dir/example/example_a1_motor.cpp.o -o example_a1_motor   -L/home/yunlong/PycharmProjects/tqbot-controller/unitree_actuator_sdk/lib  -Wl,-rpath,/home/yunlong/PycharmProjects/tqbot-controller/unitree_actuator_sdk/lib -lUnitreeMotorSDK_Arm64 

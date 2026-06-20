@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -rdynamic CMakeFiles/changeID.dir/example/changeID.cpp.o -o changeID   -L/home/yunlong/PycharmProjects/tqbot-controller/unitree_actuator_sdk/lib  -Wl,-rpath,/home/yunlong/PycharmProjects/tqbot-controller/unitree_actuator_sdk/lib -lUnitreeMotorSDK_Arm64 

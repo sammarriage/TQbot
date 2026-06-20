@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -rdynamic CMakeFiles/example_goM8010_6_motor.dir/example/example_goM8010_6_motor.cpp.o -o example_goM8010_6_motor   -L/home/yunlong/PycharmProjects/tqbot-controller/unitree_actuator_sdk/lib  -Wl,-rpath,/home/yunlong/PycharmProjects/tqbot-controller/unitree_actuator_sdk/lib -lUnitreeMotorSDK_Arm64 
